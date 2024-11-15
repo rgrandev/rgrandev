@@ -1,0 +1,3 @@
+# config.py
+PADDLE_WIDTH = 20
+PADDLE_HEIGHT = 4
